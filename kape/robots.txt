@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kapeatkintab.site.accio.ai/sitemap.xml
